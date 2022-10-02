@@ -32,7 +32,8 @@ def solve():
 
     # Get input the damage cost
     # dmg = input()
-    dmg = [*map(int, input().split())]
+    dmg = [*map(int, input().split())] # here * is used to unpack the positionsal arguement
+    # Tutorial link:  https://www.geeksforgeeks.org/python-star-or-asterisk-operator/
 
     for i in range(0, n):
         if skill[i] == "0":
