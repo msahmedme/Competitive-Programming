@@ -1,0 +1,1 @@
+{"name":"Local: A_Glory_Addicts","url":"/home/sabbir/Desktop/CP/CodeForces/A_Glory_Addicts.py","tests":[{"id":1664694197337,"input":"1\n9\n0 1 1 0 1 0 1 1 1\n20 4 8 6 100 4 5 9 3","output":"306"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sabbir/Desktop/CP/CodeForces/A_Glory_Addicts.py","group":"local","local":true}
